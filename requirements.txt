@@ -1,0 +1,7 @@
+opencv-python-headless
+mediapipe
+tensorflow
+scikit-learn
+pandas
+matplotlib
+numpy
