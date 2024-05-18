@@ -43,7 +43,7 @@ Setup Instructions
 
         Data Collection:
         Run data_collection.py to capture video frames and save pose landmarks to coords.csv.
-        Use 'u' and 'D' keys to label the poses as "up" and "down", respectively.
+        Use 'u' and 'd' keys to label the poses as "up" and "down", respectively.
 
     Model Training:
         Run model_training.py to preprocess data, train the model, and evaluate its performance.
