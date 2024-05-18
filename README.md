@@ -58,7 +58,7 @@ This script captures video frames, extracts pose landmarks using MediaPipe, and 
 Usage
 
     Press 'u' to label the current pose as "up".
-    Press 'D' to label the current pose as "down".
+    Press 'd' to label the current pose as "down".
     Press 'q' to quit the video capture.
 
 Model Training Script (model_training.py)
